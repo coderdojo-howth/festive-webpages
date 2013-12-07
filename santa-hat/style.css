@@ -1,0 +1,17 @@
+.content {
+    background-color: darkred;
+    color: white;
+    max-width: 400px;
+    margin: 100px auto;
+    padding: 15px;
+    font-size: 2em;
+
+    position: relative;
+}
+
+.hat {
+    width: 300px;
+    position: absolute;
+    left: -170px;
+    top: -100px;
+}
